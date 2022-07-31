@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "Power Curve Diagram"
+description = "Creates an example diagram of an idealised wind turbine power curve"
+version = "1.0.0"
+authors = ["Guy Keogh <guykeogh@proton.me>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+plotly = "5.9.0"
+pandas = "1.4.3"
+scipy = "1.9.0"
+numpy = "1.23.1"
+kaleido = "0.2.1"
