@@ -9,7 +9,7 @@ Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)). 
 
 ## Idealised Wind Turbine Power Curve
 For a specific turbine model, wind turbine manufacturers provide a dataset of rated power output (watts/kilowatts/megawatts) vs. wind-speed (m/s)
-. These datasets typically follow the general shape of the .SVG provided in [img/Idealised Wind Turbine Power Curve.svg](img/Idealised Wind Turbine Power Curve.svg). 
+. These datasets typically follow the general shape of the .SVG provided in [img/Idealised Wind Turbine Power Curve.svg](img/Idealised%20Wind%20Turbine%20Power%20Curve.svg). 
 
 "Wind speed" refers to an undisturbed wind velocity measured at a suitable distance upstream from the blades. [[1], p.7]
 
